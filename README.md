@@ -1,4 +1,4 @@
-# halawa_naim_chat
+# chat_app
 
 our little secret me and halawa
 
