@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610087045869",
+    "project_id": "our-chat-app-223f0",
+    "storage_bucket": "our-chat-app-223f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610087045869:android:b7c94c675344cde0059ae4",
+        "android_client_info": {
+          "package_name": "com.example.halawa_naim_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610087045869-5arndu2lm8uqgcb75tres83heu64rdaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSI7hD3bw9uqjmFjfdDF-sFmK_e199w-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610087045869-5arndu2lm8uqgcb75tres83heu64rdaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
