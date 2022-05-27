@@ -1,6 +1,6 @@
 # chat_app
 
-our little secret me and halawa
+our little secret 
 
 ## Getting Started
 
